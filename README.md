@@ -1,4 +1,4 @@
-### Project on credit card loan defualt prediction in which the model predicts whether the person would default his loan or not.
+# Project on credit card loan defualt prediction in which the model predicts whether the person would default his loan or not.
 ## In this project I have carried out following tasks.
 ## Data collection: Collected the relevant data from kaggle
 ## Data exploration: Explored the data to see the presence of outliers and null values.
